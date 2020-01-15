@@ -1,0 +1,32 @@
+footer{
+    bottom: 0;
+}
+
+body{
+    margin: 30px;
+    font-family: "Lucida Sans Unicode", serif;
+}
+
+body{
+    background-color: ghostwhite;
+}
+
+img{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+img:hover{
+    opacity: 1;
+}
+
+#container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
